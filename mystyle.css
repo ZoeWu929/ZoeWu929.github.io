@@ -1,0 +1,62 @@
+h1{
+    color:blue;
+    background-color:lightgray;
+    border: 3px solid grey;
+    padding: 20px;
+    border-radius: 20px;
+}
+h2{
+    color:yellow;
+    background-color:green;
+}
+
+h1{
+    color:#FF69B4;
+    font-size:72px;
+    font-family:"微軟正黑體";
+    font-weight:bold;
+
+   
+}
+
+
+p{
+    color:brown;
+}
+
+.redred{
+    color:red;
+    background-color:red;
+    text-decoration: underline;
+    font-weight: 900;
+    background-color: pink;
+
+}
+
+header{
+    background-color: pink;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+main{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 1px 20px;
+    height: 200px;
+    overflow: scroll;
+}
+
+section{
+    background-color: blanchedalmond;
+}
+
+footer{
+    background-color: cadetblue;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
